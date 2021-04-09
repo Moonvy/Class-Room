@@ -1,6 +1,6 @@
 # Class-Room
 <p align="center">
-  <img src="https://github.com/Moonvy/Class-Room/raw/main/class-cover.jpeg" width="1500"></img>
+  <img src="https://github.com/Moonvy/Class-Room/raw/main/class-cover.jpeg" width="240"></img>
 </p>
 
 
